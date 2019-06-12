@@ -13,3 +13,5 @@
 **node ./report_chrome.js**
 or
 **node ./report_firefox.js**
+
+This repo is based on https://github.com/rquellh/testcafe-cucumber
